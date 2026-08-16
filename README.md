@@ -6,6 +6,12 @@ Interactive Power BI dashboard analyzing e-commerce sales data using the Online 
 
 
 ![Dashboard Overview](dashboard-overview.png)
+![Top Products by Revenue](top-product.png)
+
+
+
+
+![Revenue Trend by Year and Month](revenue-trend.png)
 
 
 
